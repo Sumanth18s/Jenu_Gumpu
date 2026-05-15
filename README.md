@@ -53,18 +53,24 @@ The app will display the Login Screen.
 ## 5. New users can register by clicking:
 
 New User? Click Here
+
 Enter the required details:
 Name
 Email
 Password
+
 Click the Register button to create an account.
+
 Existing users can log in using their registered:
 Email
 Password
+
 After successful login, the Language Selection Screen will appear.
+
 Select your preferred language:
 English
 Kannada
+
 The application dashboard will open with various features.
 
 ## 6. Main Features of the Application
