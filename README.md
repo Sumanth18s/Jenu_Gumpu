@@ -45,3 +45,37 @@ The app is built using Jetpack Compose and connects to the backend server.
 - **Connection Refused**: Ensure the backend server is running *before* performing any actions in the app.
 - **Emulator Network**: Remember that the Emulator treats `localhost` as its own internal loopback. Use `10.0.2.2` to access the host machine.
 - **Kannada Font**: The app uses standard Android fonts. If Kannada text doesn't display correctly on a physical device, ensure the device supports Indic languages.
+
+How to Use the Application
+Open the Jenu-Gumpu application on your mobile device.
+The app will display the Login Screen.
+
+## 5. New users can register by clicking:
+
+New User? Click Here
+Enter the required details:
+Name
+Email
+Password
+Click the Register button to create an account.
+Existing users can log in using their registered:
+Email
+Password
+After successful login, the Language Selection Screen will appear.
+Select your preferred language:
+English
+Kannada
+The application dashboard will open with various features.
+
+## 6. Main Features of the Application
+
+• Add Harvest – Users can add honey harvest details such as quantity, date, and collection information.
+• Harvest History – Displays all previously saved harvest records for future reference.
+• Grading Guide – Provides honey quality grading information and standards.
+• Profit Calculator – Helps users calculate estimated profit based on production and selling price.
+• Sustainable Harvest – Displays eco-friendly and safe honey harvesting practices.
+• Market Price Monitor – Shows current honey market prices for better selling decisions.
+• Charts & Analytics – Provides graphical reports and harvest analysis.
+• Multi-Language Support – Users can switch between English and Kannada languages.
+• Secure Login System – User authentication is implemented using Room Database for secure local login.
+• Offline Functionality – The application stores data locally, allowing core features to work without internet access.
