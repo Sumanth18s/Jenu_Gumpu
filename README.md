@@ -70,12 +70,21 @@ The application dashboard will open with various features.
 ## 6. Main Features of the Application
 
 • Add Harvest – Users can add honey harvest details such as quantity, date, and collection information.
+
 • Harvest History – Displays all previously saved harvest records for future reference.
+
 • Grading Guide – Provides honey quality grading information and standards.
+
 • Profit Calculator – Helps users calculate estimated profit based on production and selling price.
+
 • Sustainable Harvest – Displays eco-friendly and safe honey harvesting practices.
+
 • Market Price Monitor – Shows current honey market prices for better selling decisions.
+
 • Charts & Analytics – Provides graphical reports and harvest analysis.
+
 • Multi-Language Support – Users can switch between English and Kannada languages.
+
 • Secure Login System – User authentication is implemented using Room Database for secure local login.
+
 • Offline Functionality – The application stores data locally, allowing core features to work without internet access.
